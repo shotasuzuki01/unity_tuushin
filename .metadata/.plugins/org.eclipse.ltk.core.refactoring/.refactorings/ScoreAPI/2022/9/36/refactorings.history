@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;controller.CreateRandomData.serialVersionUID&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;ScoreAPI&apos;&#x0D;&#x0A;- 宛先要素: &apos;controller.CreateRandomData.serialVersionUID&apos;&#x0D;&#x0A;- オリジナル要素: &apos;controller.CreateRandomData.serialVersionUID&apos;" description="フィールドをコピー" destination="/src&lt;controller{CreateRandomData.java[CreateRandomData^serialVersionUID" element1="/src&lt;controller{CreateRandomData.java[CreateRandomData^serialVersionUID" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1661996762893" version="1.0"/>
+</session>
